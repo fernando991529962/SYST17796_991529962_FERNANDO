@@ -31,7 +31,7 @@ public class Student {
     }
     
     public void pretendName() {
-        System.out.println("My name is Frank guys, seriously!");
+        System.out.println("My name is Barnaby guys, seriously!");
     }
     
     @Override 
