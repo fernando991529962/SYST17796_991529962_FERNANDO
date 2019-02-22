@@ -30,6 +30,10 @@ public class Student {
         this.name = name;
     }
     
+    public void pretendName() {
+        System.out.println("My name is Frank guys, seriously!");
+    }
+    
     @Override 
     public String toString() {
         return id + " - " + name;
